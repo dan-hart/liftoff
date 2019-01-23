@@ -22,7 +22,7 @@ title: 'Mentor Playbook: Week 2'
 
 ## Student Assignments
 * Project Planning
-    * [Description](../../assignments/project-planning/)
+    * [Description](../../assignments/planning/)
     * Grading Rubric found on Canvas under the Pages section
         * See the CEM if you can't find it
     * *This assignment needs to be graded before week 3!*
